@@ -637,3 +637,5 @@ read: function (file) {
 		return result;
 	}
 };
+
+module.exports = docx;
